@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000"/>
 </div>
 
 # Hi there! 👋 I'm Dilisha  
