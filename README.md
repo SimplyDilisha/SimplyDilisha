@@ -80,7 +80,7 @@ A creative HTML, css, js based website for fashion club
 
 ---
 
-✨ *Building. Learning. Growing. One project at a time.
+✨ **Building. Learning. Growing. One project at a time.**
 
 <!--
 **SimplyDilisha/SimplyDilisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
