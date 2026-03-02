@@ -28,7 +28,7 @@ My goal is to become a skilled software developer and create impactful solutions
 ## 🌐 Portfolio  
 
 🔗 **Check out my work here:**  
-👉 https://dilisha-portfolio.netlify.app/  
+👉 [My Portfolio](https://dilisha.vercel.app/)
 
 ---
 
