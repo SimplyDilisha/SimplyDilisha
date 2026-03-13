@@ -19,7 +19,8 @@ I enjoy working on strengthening my programming fundamentals.
 I believe in:
 - Learning by building 🚀  
 - Staying consistent 📈  
-- Turning ideas into real projects 💡  
+- Turning ideas into real projects 💡
+- Problem-solving mindset 🧠
 
 My goal is to become a skilled software developer and create impactful solutions that make a difference.
 
